@@ -1,3 +1,3 @@
 <?php
-echo gethostname();
+echo php_uname('n');
 ?>
